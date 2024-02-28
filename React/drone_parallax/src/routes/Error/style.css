@@ -1,0 +1,26 @@
+.container-error{
+    background-color: #000;
+    color: #fff;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: default;
+}
+
+.title-error{
+    font-family: 'Kalam', cursive;
+}
+
+span{color: #ff0000c4; cursor: url(../../assets/cursor.png), pointer;}
+
+.link-back{
+    color: #fff;
+    font-size: 2.1rem;
+}
+
+.link-back:hover{
+    color: #ff0000c4;
+}

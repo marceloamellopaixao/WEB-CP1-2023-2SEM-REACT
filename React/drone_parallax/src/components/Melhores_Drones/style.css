@@ -1,0 +1,10 @@
+.conteudo-site{
+	padding-top: 120px;
+	padding-bottom: 640px;
+}
+
+
+.conteudo-site .container, .img-site .container{
+	margin: auto;
+	width: 1200px;
+}
